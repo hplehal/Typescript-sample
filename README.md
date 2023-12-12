@@ -39,4 +39,4 @@ void - 	for functions with no documented return value\
 \
 ```[T, T]``` -	tuples, which are fixed-length but mutable\
 \
-```(t: T) => U``` -   functions\
+```ts (t: T) => U``` -   functions
