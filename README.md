@@ -9,8 +9,8 @@ Its main goal is to be a staatic typechecker for Javascript programs. It tries t
 
 ## What are some Data Types TS uses? ##
 
-Number -	a double-precision IEEE 754 floating point.
-String -	an immutable UTF-16 string.
+Number -	a double-precision IEEE 754 floating point.\
+String -	an immutable UTF-16 string.\
 BigInt -	integers in the arbitrary precision format.
 Boolean -	true and false.
 Symbol -	a unique value usually used as a key.
