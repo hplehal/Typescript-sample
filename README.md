@@ -24,9 +24,11 @@ Null -	equivalent to the unit type.\
 Undefined -	 also equivalent to the unit type.\
 \
 Object -	similar to records.
-
-There are also some other TS types to consider
-
+\
+\
+There are also some other TS types to consider:
+\
+\
 unknown -	the top type.\
 \
 never - 	the bottom type.\
